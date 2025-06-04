@@ -92,8 +92,7 @@ Check it out live here: [🔗 Foodie Zone](https://foodie-zone-visit.netlify.app
 
 ## 👨‍🍳 Author
 ### KAVI J
-### 📧 Email: iamlearner04@gmail.com
-### 🐙 GitHub: Kaviarasan-J
+📧 Email: iamlearner04@gmail.com | 🐙 GitHub: [Kaviarasan-J](https://github.com/Kaviarasan-J)
 
 ## 🙌 Thank You
 Thanks for visiting Foodie Zone – where every bite is a delight! 🍱🍔🍰
